@@ -1,0 +1,19 @@
+.color-1 {
+    color: lavender
+}
+
+.color-2{
+    color: #4b0082;
+}
+.color-3 {
+    color: #ddd;
+}
+
+.color-4 {
+    color: rgb(0,0,0);
+    /* opacity: 0.2; */
+}
+
+.color-5 {
+    color: rgba(150,0,0,0.5);
+}
