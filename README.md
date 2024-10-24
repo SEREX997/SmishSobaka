@@ -1,3 +1,3 @@
 
 
-[Ссылка] (serex997.github.io/SmishSobaka)
+[Ссылка] (https://serex997.github.io/SmishSobaka)
